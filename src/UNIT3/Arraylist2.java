@@ -1,6 +1,6 @@
 package UNIT3;
-import java.util.*;
-
+import java.util.
+*;
 
 public class Arraylist2 {
     public static void main(String[] args) {
